@@ -18,7 +18,14 @@
   	<dependency>
   		<groupId>org.mortbay.jetty</groupId>
   		<artifactId>jetty</artifactId>
-  		<version>6.1H.22</version>
+  		<version>6.1.26</version>
   	</dependency>
+  	
+  	<dependency>
+		<groupId>org.mortbay.jetty</groupId>
+		<artifactId>jetty-plus</artifactId>
+		<version>6.1.26</version>
+	</dependency>
+  	
   </dependencies>
 </project>
